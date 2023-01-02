@@ -1,5 +1,8 @@
 # Cellular-Price-Data-Classification
-Comparison of ML Algorithms for Cellular Price Data Classification
+**Comparison of ML Algorithms for Cellular Price Data Classification**
+
+![Mobile Price Classification (2)](https://user-images.githubusercontent.com/121779270/210231725-baed2e06-6084-40e7-9742-a5eb8412f9b5.png)
+
 
 Portfolio assignments of Machine Learning Course : BISA AI
 
